@@ -9,7 +9,7 @@ As instruções a seguir explicam como conectar seu projeto à sua instância do
 
 ### 1. Baixar o repositório
 Para começar a usar este projeto, baixe este repositório para seu ambiente de programação. Você pode clonar este projeto usando o controle de versão do Git:
-git clone https://github.com/profwagnerberto/GestaoBiblioteca.git
+git clone https://github.com/profwagnerberto/GestaoPedagio.git
 Ou você pode baixar o arquivo ZIP usando seu navegador. Se você baixar como um arquivo ZIP, descompacte o arquivo antes de prosseguir.
 
 ### 2. Instalar Depedências
