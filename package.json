@@ -1,5 +1,5 @@
 {
-  "name": "toll-road-management",
+  "name": "gestao-pedagio-fs",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
